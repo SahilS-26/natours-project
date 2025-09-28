@@ -7,6 +7,7 @@ Dark green: #28b485
 
 */
 
+// 1. COLORS
 $color-primary: #55c57a;
 $color-primary-light: #7ed56f;
 $color-primary-dark: #28b485;
@@ -14,3 +15,9 @@ $color-primary-dark: #28b485;
 $color-grey: #777;
 $color-white: #fff;
 $color-black: #000;
+
+// 2. GRID-LAYOUT
+
+$grid-width: 114rem;
+$gutter-verticle: 8rem;
+$gutter-horizontal: 2rem;
